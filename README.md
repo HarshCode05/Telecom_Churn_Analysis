@@ -104,6 +104,16 @@ Accuracy: 85%
 ---
 
 
+⚙️ How to Run Locally
+1️⃣ Clone Repository
+git clone https://github.com/HarshCode05/Telecom_Churn_Analysis.git
+2️⃣ Navigate to Folder
+cd Telecom_Churn_Analysis
+3️⃣ Install Dependencies
+pip install -r requirements.txt
+4️⃣ Run the App
+python -m streamlit run app.py
+
 ## 🌍 Future Improvements
 
 * 🚀 Deploy on Streamlit Cloud / Render
